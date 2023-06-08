@@ -30,7 +30,3 @@ Design a comprehensive architecture and showcase it using a tool of your prefere
 
 
 *Note: Feel free to specify the desired tool or provide additional requirements*
-
-## Result
-
-Push the result in the repo in an encrypted form and share how to read it by mail. The material will be reviewed and discussed during the technical discussion.
