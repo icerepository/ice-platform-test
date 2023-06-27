@@ -29,4 +29,6 @@ Design a comprehensive architecture and showcase it using a tool of your prefere
 4. Monitoring: The architecture should include a comprehensive monitoring system that enables real-time tracking and analysis of the application's performance, identifying potential issues or bottlenecks.
 
 
-*Note: Feel free to specify the desired tool or provide additional requirements*
+*Note: 
+Feel free to specify the desired tool or provide additional requirements
+The average candidate spend between 4 and 8 hours for the assignment*
