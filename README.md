@@ -30,5 +30,6 @@ Design a comprehensive architecture and showcase it using a tool of your prefere
 
 
 *Note: 
-Feel free to specify the desired tool or provide additional requirements
-The average candidate spend between 4 and 8 hours for the assignment*
+Feel free to specify the desired tool or provide additional requirements.
+
+The average candidate spend between 4 and 8 hours for the assignment.*
