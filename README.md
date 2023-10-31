@@ -1,24 +1,24 @@
 # Thank you for joining our recruitment process.
 
-This project is aimed to show us your technical skills in regards to design, implement and deploy cloud applications. In the following tasks, we will ask you to prepare a simple service which for a given picture answers the question: does the picture present a cat? 😀
+This project is aimed to show us your technical skills in regards to designing, implementing and deploying cloud applications. In the following task, we ask that you prepare a simple service which for a given image filke (jpeg/png) answers the question: does the image file contain the image of a cat? 😀
 
-**Problem:** Does a picture present a cat?
+**Problem:** Does the image file provided contain a cat?
 
-**Input:** Picture file
+**Input:** Picture file (Jpg/Png)
 
-**Output:** Yes or Not
+**Output:** Yes or No
 
 **Requirements:**
 
-* only consider AWS cloud and AWS/Amazon services
-* application is serverless
-* application provides any kind of interface to interact with it
-* persistence is provided
+* Only consider AWS cloud and AWS/Amazon services
+* The application should use serverless technologies
+* The application can have any kind of interface to interact with it (don't spend too much time on this part!)
+* Persistence is provided
 
 
 ## Task 
 
-Design a comprehensive architecture and showcase it using a tool of your preference. The application will undergo evaluation based on the following criteria:
+Design and create an application using AWS services of your preference. The application will ideally be provisioned by IAC and be reproducable. The application will undergo evaluation based on the following criteria:
 
 1. Network Flow and Security: The architecture should prioritize robust network flow management and incorporate effective security measures to safeguard data and infrastructure.
 
@@ -31,6 +31,4 @@ Design a comprehensive architecture and showcase it using a tool of your prefere
 
 *Note:*
 
-*Feel free to specify the desired tool or provide additional requirements.*
-
-*The average candidate spend between 4 and 8 hours for the assignment.*
+*The candidate should spend a maximum of 8 hours for the assignment. If you are unable to complete in this time, please make sure that you comment in the README where you would spend more time and be ready to discuss at the next interview round*
