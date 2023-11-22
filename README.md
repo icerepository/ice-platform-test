@@ -31,4 +31,4 @@ Design and create an application using AWS services of your preference. The appl
 
 *Note:*
 
-*The candidate should spend a maximum of 8 hours for the assignment. If you are unable to complete in this time, please make sure that you comment in the README where you would spend more time and be ready to discuss at the next interview round*
+*The candidate should spend between 4-8 hours for the assignment, focussing on backend components. The UI is not necessary unless you want to build one. If you are unable to complete in this time, please make sure that you comment in the README where you would spend more time and be ready to discuss at the next interview round*
