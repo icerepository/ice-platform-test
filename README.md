@@ -1,6 +1,6 @@
 # Thank you for joining our recruitment process.
 
-This project is aimed to show us your technical skills in regards to designing, implementing and deploying cloud applications. In the following task, we ask that you prepare a simple service which for a given image filke (jpeg/png) answers the question: does the image file contain the image of a cat? 😀
+This project is aimed to show us your technical skills in regards to designing, implementing and deploying cloud applications. In the following task, we ask that you prepare a simple service which for a given image file (jpeg/png) answers the question: does the image file contain the image of a cat? 😀
 
 **Problem:** Does the image file provided contain a cat?
 
